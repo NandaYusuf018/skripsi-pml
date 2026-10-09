@@ -1,0 +1,5 @@
+data/raw/*.csv        # dataset besar tidak masuk Git
+data/processed/
+model/*.pkl           # artefak model berukuran besar
+__pycache__/
+.ipynb_checkpoints/
